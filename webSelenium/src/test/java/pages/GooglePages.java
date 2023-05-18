@@ -1,5 +1,6 @@
 package pages;
 
+
 import org.openqa.selenium.WebDriver;
 
 public class GooglePages extends BasePage { //hereda de la clase BasePage para poder acceder a los metodos de la clase BasePage

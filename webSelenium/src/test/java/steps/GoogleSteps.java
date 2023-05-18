@@ -16,7 +16,7 @@ public class GoogleSteps {
     @When("^I search for Selenium$") 
     public void searchToGoogle()  {       
         
-    }
+    } 
 
     @And("^click on the search button$") 
     public void clickToGoogle()  {       
